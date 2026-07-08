@@ -7,6 +7,7 @@ data_articolo: null
 recuperato_il: "2026-07-08"
 email:
   - "2026-07-04 — dist*ll daily digest <andrew@distll.ai>"
+  - "2026-07-02 — dist*ll daily digest <andrew@distll.ai>"
 stato: "non accessibile (HTTP 403)"
 ---
 
