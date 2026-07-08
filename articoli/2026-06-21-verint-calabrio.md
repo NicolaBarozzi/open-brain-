@@ -9,6 +9,7 @@ email:
   - "2026-07-07 — dist*ll daily digest <andrew@distll.ai>"
   - "2026-07-06 — dist*ll daily digest <andrew@distll.ai>"
   - "2026-07-01 — dist*ll daily digest <andrew@distll.ai>"
+  - "2026-06-29 — dist*ll daily digest <andrew@distll.ai>"
 stato: "ok"
 ---
 
