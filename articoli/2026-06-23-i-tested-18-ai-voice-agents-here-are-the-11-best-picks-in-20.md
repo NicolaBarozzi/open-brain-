@@ -7,6 +7,7 @@ data_articolo: "2026-06-23"
 recuperato_il: "2026-07-08"
 email:
   - "2026-06-24 — dist*ll daily digest <andrew@distll.ai>"
+  - "2026-06-05 — dist*ll daily digest <andrew@distll.ai>"
 stato: "ok"
 ---
 
